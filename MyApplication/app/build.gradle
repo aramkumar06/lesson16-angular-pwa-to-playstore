@@ -11,8 +11,8 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
-                hostName: "www.incareview.com",
-                defaultUrl: "https://www.incareview.com/app/login",
+                hostName: "www.hostname.com",
+                defaultUrl: "https://www.hostname.com/login",
                 launcherName: "Wordguru"
         ]
     }
