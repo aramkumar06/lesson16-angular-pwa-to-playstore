@@ -1,7 +1,8 @@
 # AJonP - Resources
 
 🎥 YouTube: https://bit.ly/ajonp-youtube-sub  
-https://www.youtube.com/watch?v=db9Y5jyparA
+   https://www.youtube.com/watch?v=db9Y5jyparA
+   https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/
 🌎 Site: https://ajonp.com  
 📦 GitHub: https://github.com/ajonpllc  
 🎓Lessons: https://ajonp.com/lessons/  
